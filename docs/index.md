@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Hidden Berkeley
+title: Berkeley Campus Guide
 ---
 
-# Hidden Berkeley
+# Berkeley Campus Guide
 
-A starting guide to Berkeley places and services. Check each resource's official webpage for current access details.
+New to Berkeley? This is a starting guide to Berkeley places and services around campus for students and visitors. You can check each resource's official webpage for current access details.
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
